@@ -1,0 +1,17 @@
+#ifndef MODULES_H_
+#define MODULES_H_
+
+enum ModuleID {
+    MODULE_STDOUT,
+
+    MODULE_BEACON_SIM,
+    MODULE_KALMAN,
+    MODULE_KEYBOARD,
+    MODULE_POSE_ESTIMATOR,
+    MODULE_VEHICLE_SIM,
+    MODULE_VIEWER,
+
+    NUM_MODULES
+};
+
+#endif

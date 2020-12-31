@@ -1,0 +1,3 @@
+[submodule "thread-msg"]
+	path = thread-msg
+	url = git@github.com:RossDuquette/thread-msg.git
